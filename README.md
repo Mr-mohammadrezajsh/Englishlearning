@@ -8,3 +8,8 @@
   alt="Screen Shot 1"
   title="Screen Shot 1"
   style="display: inline-block; margin: 0 auto; height: 300px; width: 300px">
+  <img
+  src="/screen_shot/2.png"
+  alt="Screen Shot 1"
+  title="Screen Shot 1"
+  style="display: inline-block; margin: 0 auto; height: 300px; width: 300px">
