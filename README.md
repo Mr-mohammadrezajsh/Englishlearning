@@ -1,6 +1,6 @@
 # Englishlearning
 
-<h3>Write Text To Convert Audio Without Internet</h3>
+<h3>Learning to pronounce English words and sentences without using the Internet</h3>
 
 
 <img
